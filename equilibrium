@@ -1,0 +1,17 @@
+<script>start("/Users/sai/Desktop/equilibrium/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1764461005,"11/29/25, 7:03:25 PM");</script>
+<script>addRow(".next",".next",1,128,"128 B",1764460978,"11/29/25, 7:02:58 PM");</script>
+<script>addRow("app","app",1,192,"192 B",1764460978,"11/29/25, 7:02:58 PM");</script>
+<script>addRow("node_modules","node_modules",1,10240,"10.0 kB",1764461321,"11/29/25, 7:08:41 PM");</script>
+<script>addRow("public","public",1,224,"224 B",1764460978,"11/29/25, 7:02:58 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1764402639,"11/29/25, 2:50:39 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,480,"480 B",1764402706,"11/29/25, 2:51:46 AM");</script>
+<script>addRow("eslint.config.mjs","eslint.config.mjs",0,465,"465 B",1764402706,"11/29/25, 2:51:46 AM");</script>
+<script>addRow("next-env.d.ts","next-env.d.ts",0,251,"251 B",1764402853,"11/29/25, 2:54:13 AM");</script>
+<script>addRow("next.config.ts","next.config.ts",0,133,"133 B",1764402706,"11/29/25, 2:51:46 AM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,243143,"237 kB",1764402728,"11/29/25, 2:52:08 AM");</script>
+<script>addRow("package.json","package.json",0,589,"589 B",1764402728,"11/29/25, 2:52:08 AM");</script>
+<script>addRow("postcss.config.mjs","postcss.config.mjs",0,94,"94 B",1764402706,"11/29/25, 2:51:46 AM");</script>
+<script>addRow("README.md","README.md",0,3568,"3.5 kB",1764444402,"11/29/25, 2:26:42 PM");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,666,"666 B",1764402706,"11/29/25, 2:51:46 AM");</script>
